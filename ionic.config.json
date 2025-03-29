@@ -1,0 +1,7 @@
+{
+  "name": "bar-build-sim",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
